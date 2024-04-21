@@ -3,3 +3,7 @@
 
 
 Rust's documentation : [RustWebsite](https://doc.rust-lang.org/book/title-page.html)
+
+I will be using the rust website along with the Rust Book Second Edition.
+
+In the fuutre I plan to use RUST FOR RUSTACEANS as well, (Another Rust book)
