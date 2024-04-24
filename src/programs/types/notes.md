@@ -4,7 +4,7 @@
 
 - Different Type annotations so Far:
 - Scalar Types, Integer Types 
-- Note 2
+- isize and usize are determined by the architecture of the computer for me that would be 64
 - Note 3
 
 ## Scalar
@@ -17,5 +17,5 @@
 
 - if integer starts with i it is signed
 - ![Integer Types In Rust](img/intTypes.png)
-- Idea 3
+- ![Integer Literals In Rust](img/integerLiterals.PNG)
 - Idea 3
