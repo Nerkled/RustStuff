@@ -5,7 +5,8 @@
 - Different Type annotations so Far:
 - Scalar Types, Integer Types 
 - isize and usize are determined by the architecture of the computer for me that would be 64
-- Note 3
+- Overflow notes could be helpful - page 38
+- Floating point can be defined as f32 and f64 (Default initialization of a floating poitn is 64 bit)
 
 ## Scalar
 
@@ -18,4 +19,12 @@
 - if integer starts with i it is signed
 - ![Integer Types In Rust](img/intTypes.png)
 - ![Integer Literals In Rust](img/integerLiterals.PNG)
-- Idea 3
+
+
+## Boolean Type
+
+- Booleans are one byte in size, specified in rust as bool (let t = true or explicitly typed as let f: bool = true;) 
+
+## Character Type
+
+- Specified with '', four bytes in size
